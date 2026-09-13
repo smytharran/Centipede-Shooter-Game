@@ -9,24 +9,24 @@ https://youtube.com/shorts/Q3qCaB3LcQE?feature=share
 
 Features
 
-Object-Oriented Python application
-Real-time gameplay using Pygame
-Accelerometer-controlled player movement via Circuit Playground Express
-NeoPixel LED feedback system
-Collision detection between game entities
-Event-driven game architecture
-Linked-list based event tracking system
-Automated enemy movement and pathing
-Boundary checking and movement constraints
-Projectile firing system
+- Object-Oriented Python application
+- Real-time gameplay using Pygame
+- Accelerometer-controlled player movement via Circuit Playground Express
+- NeoPixel LED feedback system
+- Collision detection between game entities
+- Event-driven game architecture
+- Linked-list based event tracking system
+- Automated enemy movement and pathing
+- Boundary checking and movement constraints
+- Projectile firing system
 
 Technologies Used
 
-Python
-Pygame
-CircuitPython
-Circuit Playground Express
-Object-Oriented Programming (OOP)
-Linked Lists
-Event-Driven Programming
+- Python
+- Pygame
+- CircuitPython
+- Circuit Playground Express
+- Object-Oriented Programming (OOP)
+- Linked Lists
+- Event-Driven Programming
 
